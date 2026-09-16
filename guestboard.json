@@ -1,0 +1,11 @@
+[
+  {
+    "id": 1,
+    "name": "김현기",
+    "password_hash": "2061d3a61bf3616e9932ecdb94d7d7c2e0de5d4a0120740450df33472cadca33",
+    "password_salt": "fdea48938062e0c6",
+    "message": "이 사이트 너무 좋아요.",
+    "created_at": "2026-09-16 07:10",
+    "ip": "121.190.44.133"
+  }
+]
